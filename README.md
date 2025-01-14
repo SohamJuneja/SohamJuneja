@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soham__juneja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-juneja/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@junejasoham) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/juneja_soham) 
 # 📊 GitHub Stats:
-[![Top Repositories](https://github-readme-stats.vercel.app/api/?username=SohamJuneja&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/your-username?tab=repositories)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/?username=SohamJuneja&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/SohamJuneja?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamJuneja&layout=compact&theme=radical)](https://github.com/your-username)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SohamJuneja&theme=dark&hide_border=false)<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamjuneja&label=Profile%20views&color=0e75b6&style=flat" alt="sohamjuneja" /> </p>
